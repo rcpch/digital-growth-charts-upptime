@@ -27,10 +27,6 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub Actions."
   introMessage: "This page displays service status for the RCPCH Digital Growth Charts"
   navbar:
-    - title: RCPCH Digital Growth Charts Service Status
-      href: /
-    - title: RCPCH GitHub Organisation
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
