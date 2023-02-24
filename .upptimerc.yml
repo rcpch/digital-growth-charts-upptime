@@ -7,10 +7,10 @@ sites:
     icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/dynamic-child-favicon.png
   - name: dev.rcpch.ac.uk
     url: https://dev.rcpch.ac.uk
-  - name: api.rcpch.ac.uk (without Auth correctly returns 401)
+  - name: api.rcpch.ac.uk (without Auth correctly returns 404)
     url: https://api.rcpch.ac.uk/v1/growth
     expectedStatusCodes:
-      - 401
+      - 404
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
