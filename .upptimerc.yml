@@ -4,7 +4,7 @@ repo: digital-growth-charts-upptime
 sites:
   - name: growth.rcpch.ac.uk
     url: https://growth.rcpch.ac.uk
-    icon: 
+    icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/dynamic-child-favicon.png
   - name: dev.rcpch.ac.uk
     url: https://dev.rcpch.ac.uk
   - name: api.rcpch.ac.uk (without Auth correctly returns 401)
