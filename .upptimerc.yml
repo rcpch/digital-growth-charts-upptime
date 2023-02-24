@@ -12,11 +12,14 @@ sites:
     expectedStatusCodes:
       - 404
 
+assignees:
+  - pacharanero
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime-rcpch-web-services
+  baseUrl: /digital-growth-charts-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: RCPCH Digital Growth Charts Service Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub Actions."
