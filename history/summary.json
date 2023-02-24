@@ -2,7 +2,7 @@
   {
     "name": "growth.rcpch.ac.uk",
     "url": "https://growth.rcpch.ac.uk",
-    "icon": "https://icons.duckduckgo.com/ip3/growth.rcpch.ac.uk.ico",
+    "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/dynamic-child-favicon.png",
     "slug": "growth-rcpch-ac-uk",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 402,
+    "timeDay": 402,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 815,
-    "timeWeek": 815,
-    "timeMonth": 815,
-    "timeYear": 815,
+    "time": 706,
+    "timeDay": 706,
+    "timeWeek": 706,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "api-rcpch-ac-uk-without-auth-correctly-returns-401",
     "status": "down",
-    "uptime": "14.67%",
-    "uptimeDay": "14.67%",
-    "uptimeWeek": "14.67%",
-    "uptimeMonth": "14.67%",
-    "uptimeYear": "14.67%",
-    "time": 693,
-    "timeDay": 693,
-    "timeWeek": 693,
-    "timeMonth": 693,
-    "timeYear": 693,
+    "uptime": "1.11%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "1.11%",
+    "uptimeMonth": "1.11%",
+    "uptimeYear": "1.11%",
+    "time": 720,
+    "timeDay": 720,
+    "timeWeek": 720,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-02-24": 0
+      "2023-02-24": 3
     }
   }
 ]
