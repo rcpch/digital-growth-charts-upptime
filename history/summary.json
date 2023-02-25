@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 441,
+    "timeDay": 627,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
@@ -22,35 +22,39 @@
     "url": "https://dev.rcpch.ac.uk",
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "dev-rcpch-ac-uk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 857,
-    "timeDay": 857,
+    "timeDay": 886,
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-25": 1
+    }
   },
   {
     "name": "api.rcpch.ac.uk (without Auth correctly returns 404)",
     "url": "https://api.rcpch.ac.uk/v1/growth",
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "api-rcpch-ac-uk-without-auth-correctly-returns-404",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 703,
-    "timeDay": 703,
+    "timeDay": 761,
     "timeWeek": 703,
     "timeMonth": 703,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-25": 0
+    }
   }
 ]
