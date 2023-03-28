@@ -22,9 +22,9 @@
     "url": "https://dev.rcpch.ac.uk",
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "dev-rcpch-ac-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -34,6 +34,7 @@
     "timeMonth": 1936,
     "timeYear": 1664,
     "dailyMinutesDown": {
+      "2023-03-28": 0,
       "2023-02-25": 28
     }
   },
