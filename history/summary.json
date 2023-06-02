@@ -4,19 +4,19 @@
     "url": "https://growth.rcpch.ac.uk",
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "growth-rcpch-ac-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 418,
-    "timeWeek": 645,
-    "timeMonth": 592,
+    "timeDay": 464,
+    "timeWeek": 628,
+    "timeMonth": 589,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2023-06-02": 1
+      "2023-06-02": 7
     }
   },
   {
