@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 575,
-    "timeDay": 381,
-    "timeWeek": 1143,
-    "timeMonth": 671,
-    "timeYear": 576,
+    "timeDay": 715,
+    "timeWeek": 1201,
+    "timeMonth": 676,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2024-03-13": 584,
       "2024-03-12": 755
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 985,
-    "timeDay": 926,
-    "timeWeek": 830,
-    "timeMonth": 818,
+    "timeDay": 780,
+    "timeWeek": 844,
+    "timeMonth": 802,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2024-05-27": 29,
@@ -55,16 +55,16 @@
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "api-rcpch-ac-uk-without-auth-correctly-returns-404",
     "status": "up",
-    "uptime": "94.37%",
+    "uptime": "94.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.55%",
+    "uptimeYear": "94.82%",
     "time": 776,
-    "timeDay": 607,
-    "timeWeek": 677,
-    "timeMonth": 720,
-    "timeYear": 764,
+    "timeDay": 676,
+    "timeWeek": 701,
+    "timeMonth": 713,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2024-03-28": 20,
       "2024-03-12": 104,
@@ -90,8 +90,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   }
 ]
