@@ -5,14 +5,15 @@ sites:
   - name: growth.rcpch.ac.uk
     url: https://growth.rcpch.ac.uk
     icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png
-  - name: dev.rcpch.ac.uk
-    url: https://dev.rcpch.ac.uk
-    icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png
   - name: api.rcpch.ac.uk (without Auth correctly returns 404)
     url: https://api.rcpch.ac.uk/v1/growth
     icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png
     expectedStatusCodes:
       - 404
+  - name: forum.rcpch.tech
+    url: https://forum.rcpch.tech/
+    icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png
+    
 
 assignees:
   - pacharanero
