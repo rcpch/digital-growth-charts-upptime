@@ -51,9 +51,9 @@
     "url": "https://forum.rcpch.tech/",
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "forum-rcpch-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,6 +62,8 @@
     "timeWeek": 954,
     "timeMonth": 899,
     "timeYear": 884,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-07": 0
+    }
   }
 ]
