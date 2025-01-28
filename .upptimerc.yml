@@ -10,6 +10,13 @@ sites:
     icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png
     expectedStatusCodes:
       - 404
+  - name: Growth API (UK WHO)
+    url: https://api.rcpch.ac.uk/growth/v1/uk-who/calculation
+    method: POST
+    headers:
+      - "Subscription-Key: $GROWTH_API_KEY"
+      - "Content-Type: application/json"
+    body: '{"birth_date":"2020-04-12","observation_date":"2028-06-12","observation_value":115,"sex":"female","gestation_weeks":40,"gestation_days":0,"measurement_method":"height","bone_age":10,"bone_age_centile":98,"bone_age_sds":2,"bone_age_text":"This bone age is advanced","bone_age_type":"greulich-pyle","events_text":["Growth hormone start","Growth Hormone Deficiency diagnosis"]}'
   - name: forum.rcpch.tech
     url: https://forum.rcpch.tech/
     icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png
@@ -17,6 +24,7 @@ sites:
 
 assignees:
   - pacharanero
+  - mbarton
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
