@@ -64,19 +64,19 @@
     "url": "https://forum.rcpch.tech/",
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "forum-rcpch-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 1287,
-    "timeWeek": 863,
-    "timeMonth": 879,
-    "timeYear": 845,
+    "time": 846,
+    "timeDay": 1256,
+    "timeWeek": 909,
+    "timeMonth": 889,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 12
     }
   }
 ]
