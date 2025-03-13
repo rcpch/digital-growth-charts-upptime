@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.91%",
     "time": 620,
-    "timeDay": 682,
-    "timeWeek": 731,
-    "timeMonth": 753,
-    "timeYear": 636,
-    "dailyMinutesDown": {
-      "2024-03-13": 584
-    }
+    "timeDay": 541,
+    "timeWeek": 684,
+    "timeMonth": 754,
+    "timeYear": 635,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.rcpch.ac.uk (without Auth correctly returns 404)",
@@ -29,11 +27,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 813,
-    "timeDay": 1360,
-    "timeWeek": 1022,
-    "timeMonth": 1037,
+    "timeDay": 518,
+    "timeWeek": 960,
+    "timeMonth": 1023,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2024-03-28": 20
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 182,
-    "timeWeek": 154,
+    "time": 187,
+    "timeDay": 108,
+    "timeWeek": 152,
     "timeMonth": 201,
-    "timeYear": 189,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 852,
-    "timeDay": 692,
-    "timeWeek": 938,
-    "timeMonth": 943,
-    "timeYear": 852,
+    "time": 850,
+    "timeDay": 554,
+    "timeWeek": 886,
+    "timeMonth": 933,
+    "timeYear": 850,
     "dailyMinutesDown": {}
   }
 ]
