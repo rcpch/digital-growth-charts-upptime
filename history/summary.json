@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 1184,
-    "timeWeek": 749,
-    "timeMonth": 659,
-    "timeYear": 634,
+    "time": 627,
+    "timeDay": 1202,
+    "timeWeek": 820,
+    "timeMonth": 682,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png",
     "slug": "api-rcpch-ac-uk-without-auth-correctly-returns-404",
     "status": "up",
-    "uptime": "96.40%",
+    "uptime": "96.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 818,
-    "timeDay": 1422,
-    "timeWeek": 1100,
-    "timeMonth": 907,
-    "timeYear": 818,
-    "dailyMinutesDown": {
-      "2024-03-28": 20
-    }
+    "timeDay": 1157,
+    "timeWeek": 1075,
+    "timeMonth": 915,
+    "timeYear": 820,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Growth API (UK WHO)",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 160,
-    "timeWeek": 173,
+    "time": 187,
+    "timeDay": 193,
+    "timeWeek": 177,
     "timeMonth": 200,
-    "timeYear": 186,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -62,15 +60,15 @@
     "slug": "forum-rcpch-tech",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 849,
-    "timeDay": 944,
-    "timeWeek": 940,
-    "timeMonth": 881,
-    "timeYear": 849,
+    "time": 850,
+    "timeDay": 1074,
+    "timeWeek": 966,
+    "timeMonth": 873,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2025-03-26": 35
     }
