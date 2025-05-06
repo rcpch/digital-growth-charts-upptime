@@ -40,19 +40,19 @@
     "url": "https://api.rcpch.ac.uk/growth/v1/uk-who/calculation",
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "growth-api-uk-who",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 163,
-    "timeWeek": 147,
-    "timeMonth": 140,
-    "timeYear": 167,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 285,
+    "timeDay": 4142,
+    "timeWeek": 1475,
+    "timeMonth": 514,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-05-06": 0
+      "2025-05-06": 17
     }
   },
   {
