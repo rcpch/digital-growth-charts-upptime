@@ -1,7 +1,7 @@
 url: https://api.rcpch.ac.uk/growth/v1/uk-who/calculation
-status: down
-code: 502
-responseTime: 136
-lastUpdated: 2025-05-06T21:32:32.313Z
+status: up
+code: 200
+responseTime: 12099
+lastUpdated: 2025-05-06T21:49:21.871Z
 startTime: 2025-01-28T10:37:23.279Z
 generator: Upptime <https://github.com/upptime/upptime>
