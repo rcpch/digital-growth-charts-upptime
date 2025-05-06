@@ -40,18 +40,20 @@
     "url": "https://api.rcpch.ac.uk/growth/v1/uk-who/calculation",
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "growth-api-uk-who",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 190,
-    "timeWeek": 149,
+    "time": 167,
+    "timeDay": 163,
+    "timeWeek": 147,
     "timeMonth": 140,
-    "timeYear": 168,
-    "dailyMinutesDown": {}
+    "timeYear": 167,
+    "dailyMinutesDown": {
+      "2025-05-06": 0
+    }
   },
   {
     "name": "forum.rcpch.tech",
