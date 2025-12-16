@@ -20,6 +20,10 @@ sites:
   - name: forum.rcpch.tech
     url: https://forum.rcpch.tech/
     icon: https://raw.githubusercontent.com/rcpch/digital-growth-charts-upptime/master/assets/rcpch192.png
+  - name: ollama
+    url: https://api.rcpch.ac.uk/ollama
+    headers:
+      - "Ocp-Apim-Subscription-Key: $OLLAMA_API_KEY"
     
 
 assignees:
