@@ -98,17 +98,19 @@
     "url": "https://api.rcpch.ac.uk/ollama",
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "ollama",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 414,
-    "timeWeek": 204,
-    "timeMonth": 158,
-    "timeYear": 146,
-    "dailyMinutesDown": {}
+    "time": 147,
+    "timeDay": 293,
+    "timeWeek": 200,
+    "timeMonth": 159,
+    "timeYear": 147,
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   }
 ]
