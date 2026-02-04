@@ -1,7 +1,7 @@
 url: https://api.rcpch.ac.uk/ollama
-status: up
-code: 200
-responseTime: 414
-lastUpdated: 2026-02-03T23:30:13.093Z
+status: down
+code: 502
+responseTime: 171
+lastUpdated: 2026-02-04T06:29:28.244Z
 startTime: 2025-12-16T09:25:14.067Z
 generator: Upptime <https://github.com/upptime/upptime>
