@@ -31,7 +31,7 @@ sites:
   - name: NHS Organisations
     url: 'https://api.rcpch.ac.uk/nhs-organisations/v1/trusts/'
     headers:
-      - "Subscription-Key: $NHS_ORGANISATIONS_API_KEY"
+      - "Ocp-Apim-Subscription-Key: $NHS_ORGANISATIONS_API_KEY"
     
 
 assignees:
