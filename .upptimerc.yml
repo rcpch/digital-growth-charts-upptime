@@ -24,6 +24,10 @@ sites:
     url: https://api.rcpch.ac.uk/ollama
     headers:
       - "Ocp-Apim-Subscription-Key: $OLLAMA_API_KEY"
+  - name: Census Platform
+    url: 'https://api.rcpch.ac.uk/deprivation/v2/index_of_multiple_deprivation_quantile?postcode=W1A1AA&year=2025&quantile=5'
+    headers:
+      - "Subscription-Key: $CENSUS_PLATFORM_API_KEY"
     
 
 assignees:
