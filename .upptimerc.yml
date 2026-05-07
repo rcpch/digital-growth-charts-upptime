@@ -32,6 +32,10 @@ sites:
     url: 'https://api.rcpch.ac.uk/nhs-organisations/v1/trusts/'
     headers:
       - "Ocp-Apim-Subscription-Key: $NHS_ORGANISATIONS_API_KEY"
+  - name: postcodes.io
+    url: 'https://api.rcpch.ac.uk/postcodes/postcodes/W1A1AA'
+    headers:
+      - "Ocp-Apim-Subscription-Key: $POSTCODES_API_KEY"
     
 
 assignees:
