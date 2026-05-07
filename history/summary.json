@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "nhs-organisations",
     "status": "down",
-    "uptime": "44.90%",
-    "uptimeDay": "44.90%",
-    "uptimeWeek": "44.90%",
-    "uptimeMonth": "44.90%",
-    "uptimeYear": "44.90%",
+    "uptime": "9.26%",
+    "uptimeDay": "9.26%",
+    "uptimeWeek": "9.26%",
+    "uptimeMonth": "9.26%",
+    "uptimeYear": "9.26%",
     "time": 479,
     "timeDay": 479,
     "timeWeek": 479,
     "timeMonth": 479,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2026-05-07": 0
+      "2026-05-07": 2
     }
   }
 ]
