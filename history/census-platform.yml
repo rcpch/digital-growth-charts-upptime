@@ -1,7 +1,7 @@
 url: https://api.rcpch.ac.uk/deprivation/v2/index_of_multiple_deprivation_quantile?postcode=W1A1AA&year=2025&quantile=5
 status: up
 code: 200
-responseTime: 725
-lastUpdated: 2026-05-21T00:08:45.601Z
+responseTime: 538
+lastUpdated: 2026-05-22T00:04:20.076Z
 startTime: 2026-05-07T09:51:17.676Z
 generator: Upptime <https://github.com/upptime/upptime>
