@@ -1,7 +1,7 @@
 url: https://api.rcpch.ac.uk/nhs-organisations/v1/trusts/
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2026-09-12T23:11:01.618Z
+status: down
+code: 500
+responseTime: 399
+lastUpdated: 2026-09-13T04:27:15.481Z
 startTime: 2026-05-07T10:03:28.205Z
 generator: Upptime <https://github.com/upptime/upptime>
