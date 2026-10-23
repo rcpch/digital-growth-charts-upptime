@@ -124,18 +124,20 @@
     "url": "https://api.rcpch.ac.uk/deprivation/v2/index_of_multiple_deprivation_quantile?postcode=W1A1AA&year=2025&quantile=5",
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "census-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 660,
-    "timeWeek": 631,
-    "timeMonth": 712,
-    "timeYear": 735,
-    "dailyMinutesDown": {}
+    "time": 733,
+    "timeDay": 531,
+    "timeWeek": 602,
+    "timeMonth": 702,
+    "timeYear": 733,
+    "dailyMinutesDown": {
+      "2026-10-23": 0
+    }
   },
   {
     "name": "NHS Organisations",
@@ -144,9 +146,9 @@
     "slug": "nhs-organisations",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 783,
     "timeDay": 2874,
@@ -157,7 +159,7 @@
       "2026-05-07": 5,
       "2026-08-08": 92,
       "2026-09-06": 71,
-      "2026-10-23": 0
+      "2026-10-23": 5
     }
   },
   {
