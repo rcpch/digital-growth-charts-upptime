@@ -125,19 +125,19 @@
     "url": "https://api.rcpch.ac.uk/deprivation/v2/index_of_multiple_deprivation_quantile?postcode=W1A1AA&year=2025&quantile=5",
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "census-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 4080,
-    "timeWeek": 1560,
-    "timeMonth": 1008,
-    "timeYear": 790,
+    "time": 791,
+    "timeDay": 3045,
+    "timeWeek": 1495,
+    "timeMonth": 1007,
+    "timeYear": 791,
     "dailyMinutesDown": {
-      "2026-11-01": 0
+      "2026-11-01": 5
     }
   },
   {
