@@ -1,7 +1,7 @@
 url: https://api.rcpch.ac.uk/deprivation/v2/index_of_multiple_deprivation_quantile?postcode=W1A1AA&year=2025&quantile=5
-status: down
-code: 503
-responseTime: 7630
-lastUpdated: 2026-11-01T18:49:13.348Z
+status: up
+code: 200
+responseTime: 974
+lastUpdated: 2026-11-01T18:54:33.353Z
 startTime: 2026-05-07T09:51:17.676Z
 generator: Upptime <https://github.com/upptime/upptime>
