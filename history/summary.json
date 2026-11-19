@@ -142,23 +142,23 @@
     "url": "https://api.rcpch.ac.uk/nhs-organisations/v1/trusts/",
     "icon": "https://icons.duckduckgo.com/ip3/api.rcpch.ac.uk.ico",
     "slug": "nhs-organisations",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 968,
-    "timeDay": 1483,
-    "timeWeek": 2123,
-    "timeMonth": 2094,
-    "timeYear": 968,
+    "time": 972,
+    "timeDay": 1605,
+    "timeWeek": 2092,
+    "timeMonth": 2086,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2026-05-07": 5,
       "2026-08-08": 92,
       "2026-09-06": 71,
       "2026-10-23": 17,
-      "2026-11-19": 0
+      "2026-11-19": 18
     }
   },
   {
